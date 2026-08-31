@@ -16,7 +16,7 @@ For this task, you'll be building a four-layer MLP following the specifications 
 For this task, you'll be building a four-layer convolutional neural network (CNN) following the specifications provided in `notebook2_cnn_starter.ipynb`. When answering the questions, please include both the PyTorch code and your written explanations. The final question asks you to create a diagram of your network, so be sure to show all the details, including the filters and how they are operating on the tensors.
 
 
-Use the two starter notebooks to finish the implementations. Submit this assignment through the CodePost link (find it on Blackboard).
+Use the two starter notebooks to finish the implementations. Submit this assignment on Blackboard.
 
 ## :white_check_mark: Grading: 
 I will update the following rubric with your grade after you have completed the assignment.
@@ -28,6 +28,6 @@ I will update the following rubric with your grade after you have completed the 
 
 | Exercise #  | Points Awarded (out of 6)  | Notes |
 | --------- | ------------------- | --------- |
-| 1: MLP            |    -/3    |            |
-| 2: CNN            |    -/3    |            | 
+| 1: MLP            |    -/2    |            |
+| 2: CNN            |    -/4    |            | 
 | <b>Total          |    -/6      |     </b>   |
