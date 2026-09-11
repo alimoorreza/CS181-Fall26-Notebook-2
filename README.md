@@ -1,7 +1,7 @@
 # CS181-Fall26-Notebook-2
 ## Simple Neural Networks: MLP and CNN!
 
-<b>Due</b>: Wednesday, September 16th, 2026
+<b>Due</b>: Thursday, September 17th, 2026
 
 ## How this is going to work: 
 
